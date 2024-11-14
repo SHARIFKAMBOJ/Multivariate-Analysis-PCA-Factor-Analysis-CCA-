@@ -73,8 +73,7 @@ The dataset used is the **Pima Diabetes Dataset**, which includes the following 
 ## Key Results  
 
 - **PCA** explained 95% variance using 7 components.  
-- Identified meaningful clusters using **Ward's Linkage** and **K-Means**.  
-- Logistic Regression achieved an accuracy of XX% (replace XX with your result).  
+- Identified meaningful clusters using **Ward's Linkage** and **K-Means**.    
 
 ---
 
